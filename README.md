@@ -21,7 +21,7 @@ The system consists of several microservices integrated by the use of RabbitMQ a
 
 * * * 
 ## Repositories
-Here you can find all the repositpories for our services ect. for this project. 
+Here you can find all the repositpories of our services ect. for this project. Most of them can also be found [in the root of this project](https://github.com/SoftSiGroupMMR).  
 | | |
 |:-------|:-------------------------------------------------|
 |[Frontend](https://github.com/SoftSiGroupMMR/frontend) | Frontend SPA written in Angular. |
