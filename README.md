@@ -23,7 +23,7 @@ The system consists of several microservices integrated by the use of RabbitMQ a
 ## Repositories
 Here you can find all the repositpories for our services ect. for this project. 
 |||
-|:-------|:-------|
+|:-------|:-------------------------------------------------|
 |[Frontend](https://github.com/SoftSiGroupMMR/frontend) | test |
 |[Restfull webservice](https://github.com/SoftSiGroupMMR/restfull) | test |  
 |[Flight service](https://github.com/SoftSiGroupMMR/aggregator) | test |  
