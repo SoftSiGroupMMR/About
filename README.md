@@ -30,6 +30,6 @@ Here you can find all the repositpories of our services ect. for this project. M
 |[HOTEL SERVICE MISSING](https://github.com/SoftSiGroupMMR/)| MISSING: Hotel service that fetches data from monolithic system [(Large System Development project)](https://github.com/LargeSystemsDevelopment2020/Moonlodge-Backend) |  
 |[Country-Data service](https://github.com/SoftSiGroupMMR/countryData)| Country-data service that fetches data from [GeoDB](http://geodb-cities-api.wirefreethought.com/) restfull service and from [SOAP-API's](https://documenter.getpostman.com/view/8854915/Szf26WHn?version=latest#33a2b225-11a6-48d3-a695-fb0989cc4971).|  
 |[Email service](https://github.com/SoftSiGroupMMR/countryData)| Email service that sends email to customer using javax mail and gmail. |  
-[Routing Slip dependency](https://github.com/SoftSiGroupMMR/RoutingSlip)| The dependency that other java projects can use to administer the routing slip of the messages. Dependency can be found [here](http://rasmuslynge.com:8081/#artifact/get.dk.si/routingslip).|
+[Routing Slip dependency](https://github.com/SoftSiGroupMMR/RoutingSlip)| The dependency that other java projects can use to administer the routing slip of the messages.  Dependency can be found [here](http://rasmuslynge.com:8081/#artifact/get.dk.si/routingslip).|
 |[Logging service](https://github.com/SoftSiGroupMMR/LogDB)| Logging service that recieves logs from RabbitMQ and saves them in a MongoDB |  
 
