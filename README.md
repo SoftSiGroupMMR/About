@@ -19,6 +19,10 @@ Everything will be sent to them by email.
 ## The System 
 The system consists of several microservices integrated by the use of RabbitMQ as a queueing system. All services is deployed with Kubernetes(minikube) and are scalable.  
 
+![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/Flow-Digagram.JPG)
+![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/sub-process.JPG)
+
+
 * * * 
 ## Repositories
 Here you can find all the repositpories of our services ect. for this project. Most of them can also be found [in the root of this project](https://github.com/SoftSiGroupMMR).  
