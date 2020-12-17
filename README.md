@@ -22,13 +22,13 @@ The system consists of several microservices integrated by the use of RabbitMQ a
 * * * 
 ## Repositories
 Here you can find all the repositpories for our services ect. for this project. 
-|||
+| | |
 |:-------|:-------------------------------------------------|
-|[Frontend](https://github.com/SoftSiGroupMMR/frontend) | test |
-|[Restfull webservice](https://github.com/SoftSiGroupMMR/restfull) | test |  
-|[Flight service](https://github.com/SoftSiGroupMMR/aggregator) | test |  
-|[HOTEL SERVICE MISSING](https://github.com/SoftSiGroupMMR/)| test |  
-|[Country-Data service](https://github.com/SoftSiGroupMMR/countryData)| test |  
+|[Frontend](https://github.com/SoftSiGroupMMR/frontend) | Frontend SPA written in Angular. |
+|[Restfull webservice](https://github.com/SoftSiGroupMMR/restfull) | Restfull service that recieves request and creates routing slip. |  
+|[Flight service](https://github.com/SoftSiGroupMMR/aggregator) | Flight Service that fetches dummy flight-data from [easyjetAPI](https://github.com/SoftSiGroupMMR/easyjetAPI) and [norwegianAPI](https://github.com/SoftSiGroupMMR/norwegianAPI)  |  
+|[HOTEL SERVICE MISSING](https://github.com/SoftSiGroupMMR/)| MISSING: Hotel service that fetches data from monolithic system [(Large System Development project)](https://github.com/LargeSystemsDevelopment2020/Moonlodge-Backend) |  
+|[Country-Data service](https://github.com/SoftSiGroupMMR/countryData)| Country-data service that fetches city data from [GeoDB](http://geodb-cities-api.wirefreethought.com/) restfull service and country data from |  
 |[Email service](https://github.com/SoftSiGroupMMR/countryData)| test |  
 |[Logging service](https://github.com/SoftSiGroupMMR/LogDB)| test |  
 
