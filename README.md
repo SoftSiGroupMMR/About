@@ -25,12 +25,10 @@ Here you can find all the repositpories for our services ect. for this project.
 |||
 |:-------|:-------|
 |[Frontend](https://github.com/SoftSiGroupMMR/frontend) | test |
-
-
-[Restfull webservice](https://github.com/SoftSiGroupMMR/restfull)  
-[Flight service](https://github.com/SoftSiGroupMMR/aggregator)  
-[HOTEL SERVICE MISSING](https://github.com/SoftSiGroupMMR/)  
-[Country-Data service](https://github.com/SoftSiGroupMMR/countryData)  
-[Email service](https://github.com/SoftSiGroupMMR/countryData)  
-[Logging service](https://github.com/SoftSiGroupMMR/LogDB)  
+|[Restfull webservice](https://github.com/SoftSiGroupMMR/restfull) | test |  
+|[Flight service](https://github.com/SoftSiGroupMMR/aggregator) | test |  
+|[HOTEL SERVICE MISSING](https://github.com/SoftSiGroupMMR/)| test |  
+|[Country-Data service](https://github.com/SoftSiGroupMMR/countryData)| test |  
+|[Email service](https://github.com/SoftSiGroupMMR/countryData)| test |  
+|[Logging service](https://github.com/SoftSiGroupMMR/LogDB)| test |  
 
