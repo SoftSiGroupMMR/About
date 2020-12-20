@@ -23,6 +23,7 @@ The system consists of several microservices integrated by the use of RabbitMQ a
 
 ### Flowdiagram  
 In this flow diagram the user has chosen to get flight, hotel and country info.  
+The routing slip would be different if the user had chosen only to get flight data. The message would then not be sent to the vacant hotels and country info services.  
 ![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/Flow_Digagram.JPG)  
 ![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/sub-process.JPG)  
   
