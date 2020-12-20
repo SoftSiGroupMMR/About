@@ -33,13 +33,13 @@ The routing slip would be different if the user had chosen only to get flight da
   
 * * * 
 ## Repositories
-Here you can find all the repositpories of our services ect. for this project. Most of them can also be found [in the root of this project](https://github.com/SoftSiGroupMMR).  
+Here you can find all the repositpories of our services ect. for this project. Most of them can also be found [in the root of this organization](https://github.com/SoftSiGroupMMR).  
 | | |
 |:-------|:-------|
 |[Frontend](https://github.com/SoftSiGroupMMR/frontend) | Frontend SPA written in Angular. |
 |[Restfull webservice](https://github.com/SoftSiGroupMMR/restfull) | Restfull service that recieves request and creates routing slip. |  
 |[Flight service](https://github.com/SoftSiGroupMMR/aggregator) | Flight Service that fetches dummy flight-data from [easyjetAPI](https://github.com/SoftSiGroupMMR/easyjetAPI) and [norwegianAPI](https://github.com/SoftSiGroupMMR/norwegianAPI)  |  
-|[HOTEL SERVICE MISSING](https://github.com/SoftSiGroupMMR/)| MISSING: Hotel service that fetches data from monolithic system [(Large System Development project)](https://github.com/LargeSystemsDevelopment2020/Moonlodge-Backend) |  
+|[Hotel service](https://github.com/SoftSiGroupMMR/hotel-fetcher)| Hotel service that fetches data from monolithic system [(Large System Development project)](https://github.com/LargeSystemsDevelopment2020/Moonlodge-Backend) |  
 |[Country-Data service](https://github.com/SoftSiGroupMMR/countryData)| Country-data service that fetches data from [GeoDB](http://geodb-cities-api.wirefreethought.com/) restfull service and from [SOAP-API's](https://documenter.getpostman.com/view/8854915/Szf26WHn?version=latest#33a2b225-11a6-48d3-a695-fb0989cc4971).|  
 |[Email-converter service](https://github.com/SoftSiGroupMMR/emai-builder)| Convertion service that parses the flight, hotel and country info data from the messages MetaData to html for the email-sender service. |  
 |[Email-sender service](https://github.com/SoftSiGroupMMR/email)| Email service that sends email to customer using javax mail and gmail. |  
