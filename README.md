@@ -47,7 +47,7 @@ The routing slip would be different if the user had chosen only to get flight da
 [The endpoint for hotels (LSD project)](http://206.81.29.87:8069/hotel/rooms)  
 
 
-[Examples of using above endpoint and a list of public endpoints used can be found in this postman project](https://www.getpostman.com/collections/68358ecb31cb68ae2849)
+Examples of using above endpoint and a list of public endpoints used can be found in [this postman project](https://www.getpostman.com/collections/68358ecb31cb68ae2849) (import with link in postman)
 
 
 * * * 
