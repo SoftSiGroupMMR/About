@@ -19,16 +19,18 @@ Everything will be sent to them by email.
 ## The System 
 The system consists of several microservices integrated by the use of RabbitMQ as a queueing system. All services is deployed with Kubernetes(minikube) and are scalable.  
 
-## Architectural diagram  
-![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/architectural_diagram.JPG)  
-
+* * *  
 
 ### Flowdiagram  
 In this flow diagram the user has chosen to get flight, hotel and country info.  
 The routing slip would be different if the user had chosen only to get flight data. The message would then not be sent to the vacant hotels and country info services.  
-![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/flow-digagram.JPG)  
+![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/Flow_Digagram_new.JPG)  
 ![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/sub-process.JPG)  
   
+  
+ * * *  
+## Architectural diagram  
+![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/architectural_diagram.JPG)  
 
   
 * * * 
