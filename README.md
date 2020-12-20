@@ -12,7 +12,6 @@ If a person wants to travel to a specific city they can use our webiste to find 
 Everything will be sent to them by email. 
 
 [The frontend can be seen and tested here](http://134.209.254.220/)  
-[The endpoint for our system can be found here](http://134.209.254.220:30800/)  
 
 * * * 
 
@@ -40,7 +39,17 @@ The routing slip would be different if the user had chosen only to get flight da
 ## Architectural Diagram  
 ![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/architectural_diagram.JPG)  
 
-  
+
+* * *
+## Important links 
+[The frontend can be seen and tested here](http://134.209.254.220/)  
+[The rest endpoint for our system can be found here](http://134.209.254.220:30800/travelRequest)  
+[The endpoint for hotels (LSD project)](http://206.81.29.87:8069/hotel/rooms)  
+
+
+[Examples of using above endpoint and a list of public endpoints used can be found in this postman project](https://www.getpostman.com/collections/68358ecb31cb68ae2849)
+
+
 * * * 
 ## Repositories
 Here you can find all the repositpories of our services ect. for this project. Most of them can also be found [in the root of this organization](https://github.com/SoftSiGroupMMR).  
