@@ -22,7 +22,7 @@ The system consists of several microservices integrated by the use of RabbitMQ a
 * * *  
 ## Project Video
 
-[![Youtube video for the project](https://img.youtube.com/vi/SobeyT5j8Sw&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=SobeyT5j8Sw&feature=youtu.be)
+[![Youtube video for the project](https://img.youtube.com/vi/SobeyT5j8Sw/0.jpg)](https://www.youtube.com/watch?v=SobeyT5j8Sw)
 
 [Link to video if problems with embeded video](https://www.youtube.com/watch?v=SobeyT5j8Sw&feature=youtu.be)
 
