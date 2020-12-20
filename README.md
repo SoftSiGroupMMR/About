@@ -22,7 +22,7 @@ The system consists of several microservices integrated by the use of RabbitMQ a
 
 
 ### Flowdiagram
-![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/Flow-Digagram.JPG)  
+![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/Flow_Digagram.JPG)  
 ![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/sub-process.JPG)  
   
 
