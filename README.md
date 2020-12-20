@@ -19,6 +19,8 @@ Everything will be sent to them by email.
 ## The System 
 The system consists of several microservices integrated by the use of RabbitMQ as a queueing system. All services is deployed with Kubernetes(minikube) and are scalable.  
 
+## Architectural diagram  
+![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/architectural_diagram.JPG)  
 
 
 ### Flowdiagram  
