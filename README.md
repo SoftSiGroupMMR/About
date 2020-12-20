@@ -20,11 +20,13 @@ Everything will be sent to them by email.
 The system consists of several microservices integrated by the use of RabbitMQ as a queueing system. All services is deployed with Kubernetes(minikube) and are scalable.  
 
 * * *  
-## Project Video
+## Project Video  
+This is the project video for the exam.  
+We recommend watching det video before reading the rest of this file.  
 
-[![Youtube video for the project](https://img.youtube.com/vi/SobeyT5j8Sw/0.jpg)](https://www.youtube.com/watch?v=SobeyT5j8Sw)
-
-[Link to video if problems with embeded video](https://www.youtube.com/watch?v=SobeyT5j8Sw&feature=youtu.be)
+[![Youtube video for the project](https://img.youtube.com/vi/SobeyT5j8Sw/0.jpg)](https://www.youtube.com/watch?v=SobeyT5j8Sw)  
+  
+[Link to video if problems with embeded video](https://www.youtube.com/watch?v=SobeyT5j8Sw&feature=youtu.be)  
 
 * * *
 
