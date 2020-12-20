@@ -21,7 +21,8 @@ The system consists of several microservices integrated by the use of RabbitMQ a
 
 
 
-### Flowdiagram
+### Flowdiagram  
+In this flow diagram the user has chosen to get flight, hotel and country info.
 ![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/Flow_Digagram.JPG)  
 ![](https://github.com/SoftSiGroupMMR/About/blob/main/Diagrams/sub-process.JPG)  
   
