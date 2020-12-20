@@ -22,7 +22,6 @@ The system consists of several microservices integrated by the use of RabbitMQ a
 * * *  
 ## Project Video  
 This is the project video for the exam.  
-We recommend watching det video before reading the rest of this file.  
 
 [![Youtube video for the project](https://img.youtube.com/vi/SobeyT5j8Sw/0.jpg)](https://www.youtube.com/watch?v=SobeyT5j8Sw)  
   
